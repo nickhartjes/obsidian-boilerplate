@@ -12,15 +12,15 @@ Once you're more acclimated to it, then feel free to take pieces of inspiration 
 2. [Download](https://github.com/nickhartjes/obsidian-boilerplate/archive/refs/heads/main.zip) or clone a fork of this repo
 3. Open Obsidian and you should see a prompt like below:
 
-<img src="/Assets/Attachments/obsidian-prompt.png" alt="Obsidian open prompt" width="400" />
+<img src="/Assets/Attachments/obsidian-prompt.png" alt="Obsidian open prompt" width="500" />
 
 4. Click on the `Open` button next to "Open folder as vault"
 5. Select the folder you've downloaded / cloned from Step #2.
 6. When prompted with "Safe Mode," select `Turn off Safe Mode` which will enable you to utilize the third party plugins that are critical to this starter kit
-<img src="/Assets/Attachments/obsidian-save-mode.png" alt="Obsidian Preferences panel" width="400" />
+<img src="/Assets/Attachments/obsidian-save-mode.png" alt="Obsidian Preferences panel" width="500" />
 7. You should be prompted with the "Preferences" pane, if not, you can open it by selecting the Settings (Cog) icon in the bottom left corner, or opening it with `Cmd + ,` (macOS) / `Ctrl + ,` (Windows)
 
-<img src="/Assets/Attachments/obsidian-settings.png" alt="Obsidian Preferences panel" width="400" />
+<img src="/Assets/Attachments/obsidian-settings.png" alt="Obsidian Preferences panel" width="500" />
 
 1. Go to "Community Plugins"
 2. Ensure all "Installed Plugins" by are enabled. If not, toggle the switch on each one to turn everything on
