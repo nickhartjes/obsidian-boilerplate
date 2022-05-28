@@ -1,4 +1,4 @@
-# Ben's Obsidian Boilerplate
+# Obsidian Boilerplate
 
 An opinionated boilerplate for people using [Obsidian](https://obsidian.md/).
 
@@ -29,3 +29,5 @@ Once you're more acclimated to it, then feel free to take pieces of inspiration 
 ## Next Steps
 
 This resource is currently in development and more documentation will be created as time goes on, but if you have specific questions, don't hesitate to file an issue on the repo!
+
+A special thanks to [BenCodeZen](https://github.com/bencodezen/bens-obsidian-boilerplate) for the idea.
