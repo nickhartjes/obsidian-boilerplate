@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "bc0e0e9e005c2ea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6556ac3e8196b64e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4308627a1a248f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b40666dc2ebe2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db631f2340eb3dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e282e79af4bf022b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "322f751819eaa75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e6a184b2e8f4980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3247e8711938d28d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a6ad97684d9f8865",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "749db91b42fccd8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.16656494140625
+  },
+  "active": "6556ac3e8196b64e",
+  "lastOpenFiles": [
+    "Assets/Templates/Team.md",
+    "0005-example.md",
+    "Notes/2022-05-28 Rember to say hi.md",
+    "Notes/Untitled 1.md",
+    "To do.md",
+    "Assets/Templates/Note.md",
+    "Notes/Untitled.md",
+    "Assets/Templates/Meeting.md",
+    "Assets/Templates/Architectural Decision Record.md",
+    "Assets/Templates/Story.md"
+  ]
+}
